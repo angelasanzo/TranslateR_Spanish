@@ -3,7 +3,7 @@
 
 ## Guías para traducir R a Español (en progreso)
 
-_Hi everyone, this repository is meant to be an interactive place for people who wants to translate R in Spanish! Bear in mind that I'm still learning how to use R, so any help is more than welcome. You can also find me as @sanzo_angela on Twitter.
+_Hi everyone, this repository is meant to be an interactive place for people who wants to translate R in Spanish! Bear in mind that I'm still learning how to use R, so any help is more than welcome. You can also find me as @sanzo_angela on Twitter_
 
 ¡Hola a todes! Este repositorio tiene como objectivo convertise en un espacio interactivo para aquellas personas que sean fluentes en inglés y español y quieran aydar a traducir R. ¡Gracias por adelantado! Ten encuenta que aún estoy aprendiendo R, así que, por favor, sé paciente.
 
