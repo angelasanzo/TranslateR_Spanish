@@ -3,7 +3,7 @@
 
 ## Guías para traducir R a Español (en progreso)
 
-_Hi everyone, this repository is meant to be an interactive place for people who wants to translate R in Spanish! Bear in mind that I'm still learning how to use R, so any help is more than welcome. You can also find me as @sanzo_angela on Twitter_
+_Hi everyone, this repository is meant to be an interactive place for people who wants to translate R in Spanish! Bear in mind that I'm still learning how to use R, so any help is more than welcome. You can also find me as [@sanzo_angela](https://twitter.com/sanzo_angela) on Twitter_
 
 ¡Hola a todes! Este repositorio tiene como objectivo convertise en un espacio interactivo para aquellas personas que sean fluentes en inglés y español y quieran aydar a traducir R. ¡Gracias por adelantado! Ten encuenta que aún estoy aprendiendo R, así que, por favor, sé paciente.
 
@@ -11,7 +11,7 @@ Ya hay otros proyectos previos que han intentado traducir documentación relacio
 
 Os recomiendo entrar en el slack de *r-contributors*, donde en el apartado de core-translations se están llevando a cabo translatones, así como se busca implementar las traducciones en el código de R. 
 
-Después, encontraréis weblate, mantenido por @daroczig, que sirve para agrupar las traducciones que se están haciendo sobre R en todos los idiomas. Es una web muy intuitiva y que permmite la creación de glosarios que nos perrmitan unificar las traducciones que se realicen; así como llegar a mejores concensos. 
+Después, encontraréis weblate, creado por @daroczig, que sirve para agrupar las traducciones que se están haciendo sobre R en todos los idiomas. Es una web muy intuitiva y que permmite la creación de glosarios que nos perrmitan unificar las traducciones que se realicen; así como llegar a mejores concensos. 
 
 Ahí, encontraréis que hay apartados que no están traducidos al 100%, es aquí donde más se precisa vuestra ayuda. 
 
